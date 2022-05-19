@@ -90,12 +90,3 @@ if __name__ == "__main__":
     root=Tk()
     obj=Face_Recognition_System(root)
     root.mainloop()
-
-    
-    
-    
-    
-    
-    
-    
-    gdgd
